@@ -1,0 +1,15 @@
+C:\Users\Палыч\projekts\kurs\zadanie5.5.3\zadanie5.5.3\bin\Debug\net8.0\zadanie5.5.3.exe
+C:\Users\Палыч\projekts\kurs\zadanie5.5.3\zadanie5.5.3\bin\Debug\net8.0\zadanie5.5.3.deps.json
+C:\Users\Палыч\projekts\kurs\zadanie5.5.3\zadanie5.5.3\bin\Debug\net8.0\zadanie5.5.3.runtimeconfig.json
+C:\Users\Палыч\projekts\kurs\zadanie5.5.3\zadanie5.5.3\bin\Debug\net8.0\zadanie5.5.3.dll
+C:\Users\Палыч\projekts\kurs\zadanie5.5.3\zadanie5.5.3\bin\Debug\net8.0\zadanie5.5.3.pdb
+C:\Users\Палыч\projekts\kurs\zadanie5.5.3\zadanie5.5.3\obj\Debug\net8.0\zadanie5.5.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Палыч\projekts\kurs\zadanie5.5.3\zadanie5.5.3\obj\Debug\net8.0\zadanie5.5.3.AssemblyInfoInputs.cache
+C:\Users\Палыч\projekts\kurs\zadanie5.5.3\zadanie5.5.3\obj\Debug\net8.0\zadanie5.5.3.AssemblyInfo.cs
+C:\Users\Палыч\projekts\kurs\zadanie5.5.3\zadanie5.5.3\obj\Debug\net8.0\zadanie5.5.3.csproj.CoreCompileInputs.cache
+C:\Users\Палыч\projekts\kurs\zadanie5.5.3\zadanie5.5.3\obj\Debug\net8.0\zadanie5.5.3.sourcelink.json
+C:\Users\Палыч\projekts\kurs\zadanie5.5.3\zadanie5.5.3\obj\Debug\net8.0\zadanie5.5.3.dll
+C:\Users\Палыч\projekts\kurs\zadanie5.5.3\zadanie5.5.3\obj\Debug\net8.0\refint\zadanie5.5.3.dll
+C:\Users\Палыч\projekts\kurs\zadanie5.5.3\zadanie5.5.3\obj\Debug\net8.0\zadanie5.5.3.pdb
+C:\Users\Палыч\projekts\kurs\zadanie5.5.3\zadanie5.5.3\obj\Debug\net8.0\zadanie5.5.3.genruntimeconfig.cache
+C:\Users\Палыч\projekts\kurs\zadanie5.5.3\zadanie5.5.3\obj\Debug\net8.0\ref\zadanie5.5.3.dll
