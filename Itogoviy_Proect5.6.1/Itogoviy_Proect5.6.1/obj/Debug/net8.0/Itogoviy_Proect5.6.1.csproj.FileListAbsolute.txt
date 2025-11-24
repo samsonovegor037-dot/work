@@ -1,0 +1,15 @@
+C:\Users\Палыч\projekts\kurs\Itogoviy_Proect5.6.1\Itogoviy_Proect5.6.1\bin\Debug\net8.0\Itogoviy_Proect5.6.1.exe
+C:\Users\Палыч\projekts\kurs\Itogoviy_Proect5.6.1\Itogoviy_Proect5.6.1\bin\Debug\net8.0\Itogoviy_Proect5.6.1.deps.json
+C:\Users\Палыч\projekts\kurs\Itogoviy_Proect5.6.1\Itogoviy_Proect5.6.1\bin\Debug\net8.0\Itogoviy_Proect5.6.1.runtimeconfig.json
+C:\Users\Палыч\projekts\kurs\Itogoviy_Proect5.6.1\Itogoviy_Proect5.6.1\bin\Debug\net8.0\Itogoviy_Proect5.6.1.dll
+C:\Users\Палыч\projekts\kurs\Itogoviy_Proect5.6.1\Itogoviy_Proect5.6.1\bin\Debug\net8.0\Itogoviy_Proect5.6.1.pdb
+C:\Users\Палыч\projekts\kurs\Itogoviy_Proect5.6.1\Itogoviy_Proect5.6.1\obj\Debug\net8.0\Itogoviy_Proect5.6.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Палыч\projekts\kurs\Itogoviy_Proect5.6.1\Itogoviy_Proect5.6.1\obj\Debug\net8.0\Itogoviy_Proect5.6.1.AssemblyInfoInputs.cache
+C:\Users\Палыч\projekts\kurs\Itogoviy_Proect5.6.1\Itogoviy_Proect5.6.1\obj\Debug\net8.0\Itogoviy_Proect5.6.1.AssemblyInfo.cs
+C:\Users\Палыч\projekts\kurs\Itogoviy_Proect5.6.1\Itogoviy_Proect5.6.1\obj\Debug\net8.0\Itogoviy_Proect5.6.1.csproj.CoreCompileInputs.cache
+C:\Users\Палыч\projekts\kurs\Itogoviy_Proect5.6.1\Itogoviy_Proect5.6.1\obj\Debug\net8.0\Itogoviy_Proect5.6.1.sourcelink.json
+C:\Users\Палыч\projekts\kurs\Itogoviy_Proect5.6.1\Itogoviy_Proect5.6.1\obj\Debug\net8.0\Itogoviy_Proect5.6.1.dll
+C:\Users\Палыч\projekts\kurs\Itogoviy_Proect5.6.1\Itogoviy_Proect5.6.1\obj\Debug\net8.0\refint\Itogoviy_Proect5.6.1.dll
+C:\Users\Палыч\projekts\kurs\Itogoviy_Proect5.6.1\Itogoviy_Proect5.6.1\obj\Debug\net8.0\Itogoviy_Proect5.6.1.pdb
+C:\Users\Палыч\projekts\kurs\Itogoviy_Proect5.6.1\Itogoviy_Proect5.6.1\obj\Debug\net8.0\Itogoviy_Proect5.6.1.genruntimeconfig.cache
+C:\Users\Палыч\projekts\kurs\Itogoviy_Proect5.6.1\Itogoviy_Proect5.6.1\obj\Debug\net8.0\ref\Itogoviy_Proect5.6.1.dll

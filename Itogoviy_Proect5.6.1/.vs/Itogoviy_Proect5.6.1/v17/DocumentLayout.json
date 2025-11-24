@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u041F\u0430\u043B\u044B\u0447\\projekts\\kurs\\zadanie5.5.3\\",
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u0430\u043B\u044B\u0447\\projekts\\kurs\\Itogoviy_Proect5.6.1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A658EEE3-F9B1-4816-976D-7B7C004C935C}|zadanie5.5.3\\zadanie5.5.3.csproj|c:\\users\\\u043F\u0430\u043B\u044B\u0447\\projekts\\kurs\\zadanie5.5.3\\zadanie5.5.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A658EEE3-F9B1-4816-976D-7B7C004C935C}|zadanie5.5.3\\zadanie5.5.3.csproj|solutionrelative:zadanie5.5.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2B9CF9E-3F73-45F0-B945-DD2BA62F70BE}|Itogoviy_Proect5.6.1\\Itogoviy_Proect5.6.1.csproj|c:\\users\\\u043F\u0430\u043B\u044B\u0447\\projekts\\kurs\\itogoviy_proect5.6.1\\itogoviy_proect5.6.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B9CF9E-3F73-45F0-B945-DD2BA62F70BE}|Itogoviy_Proect5.6.1\\Itogoviy_Proect5.6.1.csproj|solutionrelative:itogoviy_proect5.6.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,13 +44,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u043B\u044B\u0447\\projekts\\kurs\\zadanie5.5.3\\zadanie5.5.3\\Program.cs",
-              "RelativeDocumentMoniker": "zadanie5.5.3\\Program.cs",
-              "ToolTip": "C:\\Users\\\u041F\u0430\u043B\u044B\u0447\\projekts\\kurs\\zadanie5.5.3\\zadanie5.5.3\\Program.cs",
-              "RelativeToolTip": "zadanie5.5.3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u043B\u044B\u0447\\projekts\\kurs\\Itogoviy_Proect5.6.1\\Itogoviy_Proect5.6.1\\Program.cs",
+              "RelativeDocumentMoniker": "Itogoviy_Proect5.6.1\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u043B\u044B\u0447\\projekts\\kurs\\Itogoviy_Proect5.6.1\\Itogoviy_Proect5.6.1\\Program.cs",
+              "RelativeToolTip": "Itogoviy_Proect5.6.1\\Program.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAkwFwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T13:23:46.566Z",
+              "WhenOpened": "2025-11-24T17:56:54.022Z",
               "EditorCaption": ""
             }
           ]
